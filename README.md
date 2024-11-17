@@ -7,9 +7,9 @@
 #### Platforms & Languages
 <p>
    <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white"/>
-   <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   
 </p>
