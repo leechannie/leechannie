@@ -1,7 +1,7 @@
 ## 👩‍💻Chanhee Git
 
 ### About Me
-👋 Hi there, I  majored in software and am currently involved in software planning and creating demo versions. I have a deep passion for software. While I haven't settled on a specific career path yet, I'm working towards becoming an **IT planner** and a **full-stack developer**. 😎😎                                                                          
+👋 Hi there, I  majored in software and am currently involved in software planning and creating demo versions. I have a deep passion for software. While I haven't settled on a specific career path yet, I'm working towards becoming an **IT Project Manager** and a **full-stack developer**. 😎😎                                                                          
 
 ### 💪 Skills
 #### Platforms & Languages
